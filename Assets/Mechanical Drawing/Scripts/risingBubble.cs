@@ -6,7 +6,7 @@ public class risingBubble : MonoBehaviour
 {
     // Initialization
     public AnimationCurve curve;
-    public float speed = 0.05f;
+    public float speed = 0.01f;
     [Range(0, 10)]
     public float t;
 
